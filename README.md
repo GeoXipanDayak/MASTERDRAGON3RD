@@ -117,7 +117,8 @@ apk add python3
 apk add py3-pip
 apk add ruby
 gem install toilet
-git clone https://github.com/GeoXipanDayak/TBomb.git
+git clone 
+https://github.com/TheSpeedX/TBomb 
 cd TBomb
 pip3 install -r requirements.txt
 chmod +x TBomb.sh
